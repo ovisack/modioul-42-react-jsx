@@ -1,0 +1,46 @@
+[
+    {
+      "id": 101,
+      "cover": "https://i.ibb.co.com/xHgYTtN/1.jpg",
+      "title": "Whispers of the Night",
+      "author": "Lily Hartman",
+      "author_img": "https://i.ibb.co.com/s9Gy3BV/boy1.png",
+      "posted_time": "2024-10-20 14:30",
+      "reading_time": 7,
+      "hashtags": ["#fiction", "#mystery", "#thriller"]
+    },
+    {
+      "id": 102,
+      "cover": "https://i.ibb.co.com/wcrxDzG/2.png",
+      "title": "Through the Valley",
+      "author": "Marcus Lee",
+      "author_img": " https://i.ibb.co.com/LPLc2QW/boy2.jpg",
+      "posted_time": "2024-09-15 09:45",
+      "reading_time": 5,
+      "hashtags": ["#adventure", "#drama", "#nature"]
+    },
+    {
+      "id": 103,
+      "cover": "https://i.ibb.co.com/y0XbntD/3.png",
+      "title": "Echoes of the Forgotten",
+      "author": "Naomi Sinclair",
+      "author_img": "https://i.ibb.co.com/THvKfR8/girl1.jpg",
+      "posted_time": "2024-08-10 18:20",
+      "reading_time": 8,
+      "hashtags": ["#historical", "#romance", 
+      "#drama"]
+    },
+    {
+      "id": 104,
+      "cover": "https://i.ibb.co.com/h9NhLW5/4.jpg",
+      "title": "Fragments of Time",
+      "author": "Daniel Cooper",
+      "author_img": "  https://i.ibb.co.com/x6JtjJp/girl2.jpg",
+      "posted_time": "2024-07-22 11:00",
+      "reading_time": 10,
+      "hashtags": ["#fantasy", 
+      "#adventure", "#epic"]
+    }
+
+  ]
+
